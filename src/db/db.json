@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Fresh Bronze Sausages",
+    "price": "538.19",
+    "category": "Health"
+  },
+  {
+    "name": "Recycled Aluminum Chips",
+    "price": "708.45",
+    "category": "Shoes"
+  },
+  {
+    "name": "Licensed Bamboo Chair",
+    "price": "568.19",
+    "category": "Kids"
+  },
+  {
+    "name": "Handcrafted Ceramic Fish",
+    "price": "794.49",
+    "category": "Garden"
+  },
+  {
+    "name": "Ergonomic Wooden Sausages",
+    "price": "696.40",
+    "category": "Grocery"
+  },
+  {
+    "name": "Generic Ceramic Tuna",
+    "price": "807.50",
+    "category": "Outdoors"
+  },
+  {
+    "name": "Bespoke Wooden Car",
+    "price": "183.00",
+    "category": "Sports"
+  },
+  {
+    "name": "Tasty Bronze Cheese",
+    "price": "743.09",
+    "category": "Baby"
+  },
+  {
+    "name": "Incredible Wooden Pants",
+    "price": "963.79",
+    "category": "Computers"
+  },
+  {
+    "name": "Recycled Wooden Table",
+    "price": "805.65",
+    "category": "Jewelry"
+  },
+  {
+    "name": "Bespoke Bronze Car",
+    "price": "727.89",
+    "category": "Movies"
+  },
+  {
+    "name": "Rustic Plastic Chicken",
+    "price": "663.69",
+    "category": "Baby"
+  },
+  {
+    "name": "Incredible Steel Keyboard",
+    "price": "771.39",
+    "category": "Home"
+  },
+  {
+    "name": "Electronic Concrete Mouse",
+    "price": "740.49",
+    "category": "Computers"
+  },
+  {
+    "name": "Refined Marble Cheese",
+    "price": "314.75",
+    "category": "Industrial"
+  },
+  {
+    "name": "Ergonomic Wooden Soap",
+    "price": "524.55",
+    "category": "Kids"
+  },
+  {
+    "name": "Frozen Concrete Bike",
+    "price": "528.65",
+    "category": "Electronics"
+  },
+  {
+    "name": "Tasty Ceramic Hat",
+    "price": "767.99",
+    "category": "Movies"
+  },
+  {
+    "name": "Small Cotton Computer",
+    "price": "630.19",
+    "category": "Baby"
+  },
+  {
+    "name": "Sleek Aluminum Tuna",
+    "price": "471.65",
+    "category": "Computers"
+  }
+]
